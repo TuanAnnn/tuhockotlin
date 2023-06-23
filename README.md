@@ -1,4 +1,7 @@
 # tuhockotlin
+># Hướng dẫn
+- In đậm -> Đã hoàn thành
+- Chữ thường -> Chưa hoàn thành
 > # Danh sách bài học
 1. **Chạy chương trình đầu tiên**
 2. **Ghi chú và xuất dữ liệu**
@@ -7,8 +10,10 @@
 5. **Các phép toán cơ bản**
 6. **Toán tử gán**
 7. **Toán tử logic, Toán tử tiền tố, toán tử hậu tố**
-8. **Nhập dữ liệu từ bàn phím
+8. **Nhập dữ liệu từ bàn phím**
 9. **Câu lệnh if-else bằng Kotlin**
 10. **Cấu trúc When**
 11. For loop trong kotlin - vòng lập for
-12. Test
+12. For lòng nhau
+13. while , do while, while true
+14. 
