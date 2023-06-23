@@ -4,6 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
+    <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai9">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai10.1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai10.kt" afterDir="false" />
     <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai7,8 and remove trash file">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai9.1.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai9.2.kt" afterDir="false" />
@@ -96,7 +100,17 @@
       <option name="project" value="LOCAL" />
       <updated>1687503717048</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="bai9">
+      <option name="closed" value="true" />
+      <created>1687508029752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687508029752</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+
+
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +130,8 @@
     <MESSAGE value="bai4" />
     <MESSAGE value="bai5,6" />
     <MESSAGE value="bai7,8 and remove trash file" />
+    <MESSAGE value="bai9" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai9" />
     <option name="LAST_COMMIT_MESSAGE" value="bai7,8 and remove trash file" />
   </component>
 </project>
