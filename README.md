@@ -1,6 +1,6 @@
 # tuhockotlin
 > # Danh sách bài học
-1. Chạy chương trình đầu tiên** /
+1. **Chạy chương trình đầu tiên** /
 2. Ghi chú và xuất dữ liệu**
 3. Biến và kiểu dữ liệu trong Kotlin**
 4. Ép kiểu dữ liệu trong Kotlin**
