@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai4">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai6.1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai6.kt" afterDir="false" />
+    <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai5,6">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai7.1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai8.1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai8.2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai8.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai1.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687453602700</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bai5,6">
+      <option name="closed" value="true" />
+      <created>1687500412935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687500412935</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +107,7 @@
     <MESSAGE value="hello" />
     <MESSAGE value="bai3" />
     <MESSAGE value="bai4" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai4" />
+    <MESSAGE value="bai5,6" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai5,6" />
   </component>
 </project>
