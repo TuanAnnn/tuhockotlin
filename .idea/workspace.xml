@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai9">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai10.1.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai10.kt" afterDir="false" />
+    <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai7,8 and remove trash file">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai9.1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai9.2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai9.3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai9.4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai9.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +109,8 @@
       <updated>1687508029752</updated>
     </task>
     <option name="localTasksCounter" value="8" />
+
+
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,5 +132,6 @@
     <MESSAGE value="bai7,8 and remove trash file" />
     <MESSAGE value="bai9" />
     <option name="LAST_COMMIT_MESSAGE" value="bai9" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai7,8 and remove trash file" />
   </component>
 </project>
