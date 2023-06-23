@@ -11,3 +11,4 @@
 **9. Câu lệnh if-else bằng Kotlin**
 **10. Cấu trúc When**
 11. For loop trong kotlin - vòng lập for
+12. Test
