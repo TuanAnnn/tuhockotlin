@@ -16,4 +16,14 @@
 11. For loop trong kotlin - vòng lập for
 12. For lòng nhau
 13. while , do while, while true
-14. 
+14. Break, continue
+15. Hàm
+16. Xử lý ngoại lệ
+17. Áp dụng thư viện date time Kotlin
+18. Áp dụng thư viện Ramdom Kotlin
+19. Char kotlin
+20. String Kotlin
+21. Array Kotlin - mảng 1 chiều
+22. Array Kotlin - mảng 2 chiều
+23. List Kotlin
+24. OOP Kotlin
