@@ -13,13 +13,13 @@
 8. **Nhập dữ liệu từ bàn phím**
 9. **Câu lệnh if-else bằng Kotlin**
 10. **Cấu trúc When**
-11. For loop trong kotlin - vòng lập for
-12. For lòng nhau
-13. while , do while, while true
-14. Break, continue
-15. Hàm
-16. Xử lý ngoại lệ
-17. Áp dụng thư viện date time Kotlin
+11. **For loop trong kotlin - vòng lập for**
+12. **For lòng nhau**
+13.**while , do while, while true**
+14. **Break, continue**
+15. **Hàm**
+16. **Xử lý ngoại lệ**
+17. **Áp dụng thư viện date time Kotlin**
 18. Áp dụng thư viện Ramdom Kotlin
 19. Char kotlin
 20. String Kotlin
