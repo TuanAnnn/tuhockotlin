@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai9">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai18.1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai18.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai19.kt" afterDir="false" />
+    <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai 18,19">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HocParameter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LopSV2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Overloading.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sanpham.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sinhvien.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Thamchieuthis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Tuoi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai20-string.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai20.2-string.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai21-mang1chieu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai22-mang2chieu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai23-list.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai24-opp-contructor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +29,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="443b6b42-aa79-4130-9bd8-2e9f448b0ac2" />
+        <option name="url" value="https://github.com/TuanAnnn/tuhockotlin.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -105,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687508029752</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="bai 18,19">
+      <option name="closed" value="true" />
+      <created>1688728338856</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688728338856</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +185,7 @@
     <MESSAGE value="bai5,6" />
     <MESSAGE value="bai7,8 and remove trash file" />
     <MESSAGE value="bai9" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai9" />
+    <MESSAGE value="bai 18,19" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai 18,19" />
   </component>
 </project>
