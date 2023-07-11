@@ -44,4 +44,13 @@ fun main(args: Array<String>) {
     var kq1 = dt1.Tinhtong(1,2,3)
     println(kq)
     println(kq1)
+
+    // abtract
+    var nvhc1 = NhanvienHanhchinh("An","1111","Hn");
+    var nvdc1 = NhanVienDiCA("Chau","1211","KH")
+
+
+
+    println(nvhc1.Tinhluong())
+    println(nvdc1.Tinhluong())
 }
