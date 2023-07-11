@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9b24540-51e2-4588-852f-5a3e701fcd6d" name="Changes" comment="bai 18,19">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HocParameter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LopSV2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Overloading.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sanpham.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sinhvien.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Thamchieuthis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Tuoi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai20-string.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai20.2-string.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai21-mang1chieu.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai22-mang2chieu.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai23-list.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai24-opp-contructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NhanVienDiCA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nhansu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nhanvien.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NhanvienHanhchinh.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PhoPhong.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TinhHieu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TinhToan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TinhTong.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TruongPhong.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bai24.5-oop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bai24-opp-contructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bai24-opp-contructor.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
